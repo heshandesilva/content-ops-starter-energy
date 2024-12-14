@@ -57,7 +57,7 @@ seo:
   type: Seo
   metaTitle: 'Best Gas Provider Adelaide - Best Gas Provider '
   metaDescription: lorem-ipsum
-  addTitleSuffix: false
+  addTitleSuffix: true
   metaTags: []
 colors: bg-light-fg-dark
 styles:
