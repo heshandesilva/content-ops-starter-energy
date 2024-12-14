@@ -62,6 +62,7 @@ seo:
     efficiently.
   addTitleSuffix: true
   metaTags: []
+  socialImage: /images/american-public-power-association-513dBrMJ_5w-unsplash.jpg
 colors: bg-light-fg-dark
 styles:
   self:
