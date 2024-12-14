@@ -4,8 +4,8 @@ title: Understanding the Role of an Electricity Broker
 date: '2024-12-14'
 author: content/data/person1.json
 excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+  Find expert electricity brokers to compare rates and plans. Save time and
+  money on your energy bills with tailored solutions for your needs.
 featuredImage:
   type: ImageBlock
   url: /images/american-public-power-association-AA5v6sMcalY-unsplash.jpg
