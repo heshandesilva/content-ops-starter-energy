@@ -4,12 +4,14 @@ title: 'Energy Broker Melbourne: Your Guide to Smart Energy Choices'
 date: '2024-12-14'
 author: content/data/person1.json
 excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+  Discover top energy brokers in Melbourne. Compare plans, save on energy costs,
+  and find customized solutions for your home or business.
 featuredImage:
   type: ImageBlock
-  url: /images/abstract-feature1.svg
-  altText: Thumbnail
+  url: /images/rose-galloway-green-j4LMklF3C-8-unsplash.jpg
+  altText: >-
+    Discover top energy brokers in Melbourne. Compare plans, save on energy
+    costs, and find customized solutions for your home or business.
   elementId: ''
   styles:
     self:
@@ -55,10 +57,13 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: lorem-ipsum
-  metaDescription: lorem-ipsum
-  addTitleSuffix: false
+  metaTitle: 'Energy Broker Melbourne - Smart Energy Choices '
+  metaDescription: >-
+    Discover top energy brokers in Melbourne. Compare plans, save on energy
+    costs, and find customized solutions for your home or business.
+  addTitleSuffix: true
   metaTags: []
+  socialImage: /images/rose-galloway-green-j4LMklF3C-8-unsplash.jpg
 colors: bg-light-fg-dark
 styles:
   self:
