@@ -61,6 +61,7 @@ seo:
     costs, and find customized solutions for your home or business.
   addTitleSuffix: true
   metaTags: []
+  socialImage: /images/rose-galloway-green-j4LMklF3C-8-unsplash.jpg
 colors: bg-light-fg-dark
 styles:
   self:
