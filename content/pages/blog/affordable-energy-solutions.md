@@ -60,7 +60,7 @@ seo:
     Discover cost-saving energy solutions for households and businesses. Learn
     about upgrades, renewable options, audits, and incentives to reduce costs
     efficiently.
-  addTitleSuffix: false
+  addTitleSuffix: true
   metaTags: []
 colors: bg-light-fg-dark
 styles:
