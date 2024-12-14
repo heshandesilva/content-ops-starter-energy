@@ -9,7 +9,9 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/riccardo-annandale-7e2pe9wjL9M-unsplash.jpg
-  altText: Thumbnail
+  altText: >-
+    Track appliance energy usage, costs, and savings with real-time insights and
+    smart monitoring tips. Optimize your home’s efficiency effortlessly.
   elementId: ''
   styles:
     self:
