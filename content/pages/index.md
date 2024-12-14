@@ -36,7 +36,7 @@ sections:
         type: Link
     media:
       url: /images/chelsea-WvusC5M-TM8-unsplash.jpg
-      altText: Unblock your team boost your time to production preview
+      altText: energy broker
       elementId: ''
       type: ImageBlock
     badge:
