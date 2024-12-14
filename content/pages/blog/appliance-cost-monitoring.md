@@ -55,7 +55,7 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: lorem-ipsum
+  metaTitle: 'Appliance Cost Monitoring - Track Usage, Save Energy & Cut Costs'
   metaDescription: lorem-ipsum
   addTitleSuffix: false
   metaTags: []
