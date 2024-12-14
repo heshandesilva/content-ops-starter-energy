@@ -59,7 +59,7 @@ seo:
   metaDescription: >-
     Discover top energy brokers in Melbourne. Compare plans, save on energy
     costs, and find customized solutions for your home or business.
-  addTitleSuffix: false
+  addTitleSuffix: true
   metaTags: []
 colors: bg-light-fg-dark
 styles:
