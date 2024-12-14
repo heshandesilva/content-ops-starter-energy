@@ -8,8 +8,10 @@ excerpt: >-
   Donec sed facilisis nibh.
 featuredImage:
   type: ImageBlock
-  url: /images/abstract-feature1.svg
-  altText: Thumbnail
+  url: /images/noah-kroes-NjKdduZFHL0-unsplash.jpg
+  altText: >-
+    Discover the best gas providers in Adelaide. Compare services, rates, and
+    benefits to choose the ideal gas supplier for your home or business.
   elementId: ''
   styles:
     self:
@@ -55,10 +57,13 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: lorem-ipsum
-  metaDescription: lorem-ipsum
-  addTitleSuffix: false
+  metaTitle: 'Best Gas Provider Adelaide - Best Gas Provider '
+  metaDescription: >-
+    Discover the best gas providers in Adelaide. Compare services, rates, and
+    benefits to choose the ideal gas supplier for your home or business.
+  addTitleSuffix: true
   metaTags: []
+  socialImage: /images/noah-kroes-NjKdduZFHL0-unsplash.jpg
 colors: bg-light-fg-dark
 styles:
   self:
