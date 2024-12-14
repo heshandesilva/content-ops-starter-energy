@@ -56,7 +56,9 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: 'Energy Broker Melbourne - Smart Energy Choices '
-  metaDescription: lorem-ipsum
+  metaDescription: >-
+    Discover top energy brokers in Melbourne. Compare plans, save on energy
+    costs, and find customized solutions for your home or business.
   addTitleSuffix: false
   metaTags: []
 colors: bg-light-fg-dark
