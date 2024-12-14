@@ -4,8 +4,9 @@ title: 'Affordable Energy Solutions: A Comprehensive Guide'
 date: '2024-12-14'
 author: content/data/person1.json
 excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+  Discover cost-saving energy solutions for households and businesses. Learn
+  about upgrades, renewable options, audits, and incentives to reduce costs
+  efficiently.
 featuredImage:
   type: ImageBlock
   url: /images/american-public-power-association-513dBrMJ_5w-unsplash.jpg
