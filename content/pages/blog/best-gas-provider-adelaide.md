@@ -61,6 +61,7 @@ seo:
     benefits to choose the ideal gas supplier for your home or business.
   addTitleSuffix: true
   metaTags: []
+  socialImage: /images/noah-kroes-NjKdduZFHL0-unsplash.jpg
 colors: bg-light-fg-dark
 styles:
   self:
