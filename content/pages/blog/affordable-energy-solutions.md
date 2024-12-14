@@ -56,7 +56,10 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: Affordable Energy Solutions - Cut Costs with Upgrades
-  metaDescription: lorem-ipsum
+  metaDescription: >-
+    Discover cost-saving energy solutions for households and businesses. Learn
+    about upgrades, renewable options, audits, and incentives to reduce costs
+    efficiently.
   addTitleSuffix: false
   metaTags: []
 colors: bg-light-fg-dark
