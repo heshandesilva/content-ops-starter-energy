@@ -58,7 +58,9 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: lorem-ipsum
-  metaDescription: lorem-ipsum
+  metaDescription: >-
+    Partner with top business energy brokers to secure the best rates. Optimize
+    energy costs and find tailored solutions for your business needs.
   addTitleSuffix: false
   metaTags: []
 colors: bg-light-fg-dark
