@@ -8,7 +8,7 @@ excerpt: >-
   Donec sed facilisis nibh.
 featuredImage:
   type: ImageBlock
-  url: /images/abstract-feature1.svg
+  url: /images/american-public-power-association-AA5v6sMcalY-unsplash.jpg
   altText: Thumbnail
   elementId: ''
   styles:
