@@ -56,7 +56,9 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: Energy Broker Australia - What is an Energy Broker
-  metaDescription: lorem-ipsum
+  metaDescription: >-
+    Connect with Australia's best energy brokers to compare plans, reduce costs,
+    and find the ideal energy solutions for your home or business.
   addTitleSuffix: false
   metaTags: []
 colors: bg-light-fg-dark
