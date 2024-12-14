@@ -9,7 +9,9 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/american-public-power-association-AA5v6sMcalY-unsplash.jpg
-  altText: Thumbnail
+  altText: >-
+    Find expert electricity brokers to compare rates and plans. Save time and
+    money on your energy bills with tailored solutions for your needs.
   elementId: ''
   styles:
     self:
