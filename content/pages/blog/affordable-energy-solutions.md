@@ -55,7 +55,7 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: lorem-ipsum
+  metaTitle: Affordable Energy Solutions - Cut Costs with Upgrades
   metaDescription: lorem-ipsum
   addTitleSuffix: false
   metaTags: []
