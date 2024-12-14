@@ -56,7 +56,9 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: Electricity Broker - Choose the Right Electricity Broker
-  metaDescription: lorem-ipsum
+  metaDescription: >-
+    Find expert electricity brokers to compare rates and plans. Save time and
+    money on your energy bills with tailored solutions for your needs.
   addTitleSuffix: false
   metaTags: []
   socialImage: /images/american-public-power-association-AA5v6sMcalY-unsplash.jpg
