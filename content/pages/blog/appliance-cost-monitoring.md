@@ -55,10 +55,13 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: lorem-ipsum
-  metaDescription: lorem-ipsum
-  addTitleSuffix: false
+  metaTitle: 'Appliance Cost Monitoring - Track Usage, Save Energy & Cut Costs'
+  metaDescription: >-
+    Track appliance energy usage, costs, and savings with real-time insights and
+    smart monitoring tips. Optimize your home’s efficiency effortlessly.
+  addTitleSuffix: true
   metaTags: []
+  socialImage: /images/riccardo-annandale-7e2pe9wjL9M-unsplash.jpg
 colors: bg-light-fg-dark
 styles:
   self:
