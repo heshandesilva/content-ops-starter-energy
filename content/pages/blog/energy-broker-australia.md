@@ -8,7 +8,7 @@ excerpt: >-
   Donec sed facilisis nibh.
 featuredImage:
   type: ImageBlock
-  url: /images/abstract-feature1.svg
+  url: /images/david-millenov-lP_ZI29VZPs-unsplash.jpg
   altText: Energy Broker Australia - What is an Energy Broker
   elementId: ''
   styles:
