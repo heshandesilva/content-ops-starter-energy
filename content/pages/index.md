@@ -103,10 +103,10 @@ sections:
               borderRadius: x-large
       - title: 20x
         subtitle: Faster Insights
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Gain actionable energy insights and market data 20x faster, empowering
+          smarter decision-making.
+
         image:
           url: /images/icon2.svg
           altText: Featured icon two
