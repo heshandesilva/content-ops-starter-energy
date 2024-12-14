@@ -4,12 +4,14 @@ title: 'Understanding Business Energy Brokers: A Comprehensive Guide'
 date: '2024-12-14'
 author: content/data/person1.json
 excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+  Partner with top business energy brokers to secure the best rates. Optimize
+  energy costs and find tailored solutions for your business needs.
 featuredImage:
   type: ImageBlock
-  url: /images/abstract-feature1.svg
-  altText: Thumbnail
+  url: /images/andreas-gucklhorn-Ilpf2eUPpUE-unsplash.jpg
+  altText: >-
+    Partner with top business energy brokers to secure the best rates. Optimize
+    energy costs and find tailored solutions for your business needs.
   elementId: ''
   styles:
     self:
@@ -55,10 +57,13 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: lorem-ipsum
-  metaDescription: lorem-ipsum
-  addTitleSuffix: false
+  metaTitle: Business Energy Brokers - Comprehensive Guide
+  metaDescription: >-
+    Partner with top business energy brokers to secure the best rates. Optimize
+    energy costs and find tailored solutions for your business needs.
+  addTitleSuffix: true
   metaTags: []
+  socialImage: /images/andreas-gucklhorn-Ilpf2eUPpUE-unsplash.jpg
 colors: bg-light-fg-dark
 styles:
   self:
