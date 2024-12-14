@@ -70,7 +70,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Driving Value & Efficiency in Energy Management
     items:
       - type: FeaturedItem
         title: 500k
