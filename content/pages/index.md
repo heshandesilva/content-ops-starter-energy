@@ -128,10 +128,9 @@ sections:
         type: FeaturedItem
       - title: 200%
         subtitle: Improved Efficiency
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Optimize operations with tools that boost productivity and reduce
+          costs, delivering results at twice the speed
         image:
           url: /images/icon3.svg
           altText: Featured icon three
