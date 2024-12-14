@@ -8,7 +8,7 @@ excerpt: >-
   smart monitoring tips. Optimize your home’s efficiency effortlessly.
 featuredImage:
   type: ImageBlock
-  url: /images/abstract-feature1.svg
+  url: /images/riccardo-annandale-7e2pe9wjL9M-unsplash.jpg
   altText: Thumbnail
   elementId: ''
   styles:
