@@ -60,7 +60,7 @@ sections:
       backgroundSize: auto
       backgroundPosition: center
       backgroundRepeat: no-repeat
-      opacity: 100
+      opacity: 26
       url: /images/american-public-power-association-513dBrMJ_5w-unsplash.jpg
   - type: FeaturedItemsSection
     title:
