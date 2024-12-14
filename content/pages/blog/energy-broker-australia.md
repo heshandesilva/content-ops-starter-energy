@@ -61,6 +61,7 @@ seo:
     and find the ideal energy solutions for your home or business.
   addTitleSuffix: true
   metaTags: []
+  socialImage: /images/david-millenov-lP_ZI29VZPs-unsplash.jpg
 colors: bg-light-fg-dark
 styles:
   self:
