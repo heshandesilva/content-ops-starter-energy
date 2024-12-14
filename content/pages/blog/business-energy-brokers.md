@@ -61,7 +61,7 @@ seo:
   metaDescription: >-
     Partner with top business energy brokers to secure the best rates. Optimize
     energy costs and find tailored solutions for your business needs.
-  addTitleSuffix: false
+  addTitleSuffix: true
   metaTags: []
   socialImage: /images/andreas-gucklhorn-Ilpf2eUPpUE-unsplash.jpg
 colors: bg-light-fg-dark
