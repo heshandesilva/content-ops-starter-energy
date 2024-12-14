@@ -35,7 +35,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/main-hero.svg
+      url: /images/chelsea-WvusC5M-TM8-unsplash.jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
