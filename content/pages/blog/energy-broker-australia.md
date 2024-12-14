@@ -4,12 +4,12 @@ title: Understanding the Role of an Energy Broker
 date: '2024-12-14'
 author: content/data/person1.json
 excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+  Connect with Australia's best energy brokers to compare plans, reduce costs,
+  and find the ideal energy solutions for your home or business.
 featuredImage:
   type: ImageBlock
-  url: /images/abstract-feature1.svg
-  altText: Thumbnail
+  url: /images/david-millenov-lP_ZI29VZPs-unsplash.jpg
+  altText: Energy Broker Australia - What is an Energy Broker
   elementId: ''
   styles:
     self:
@@ -55,10 +55,13 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: lorem-ipsum
-  metaDescription: lorem-ipsum
-  addTitleSuffix: false
+  metaTitle: Energy Broker Australia - What is an Energy Broker
+  metaDescription: >-
+    Connect with Australia's best energy brokers to compare plans, reduce costs,
+    and find the ideal energy solutions for your home or business.
+  addTitleSuffix: true
   metaTags: []
+  socialImage: /images/david-millenov-lP_ZI29VZPs-unsplash.jpg
 colors: bg-light-fg-dark
 styles:
   self:
