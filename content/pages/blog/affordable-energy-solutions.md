@@ -9,7 +9,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/american-public-power-association-513dBrMJ_5w-unsplash.jpg
-  altText: Thumbnail
+  altText: Affordable Energy Solutions - Cut Costs with Upgrades
   elementId: ''
   styles:
     self:
