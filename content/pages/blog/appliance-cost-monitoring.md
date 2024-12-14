@@ -4,12 +4,14 @@ title: 'Appliance Cost Monitoring: A Comprehensive Guide'
 date: '2024-12-14'
 author: content/data/person1.json
 excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+  Track appliance energy usage, costs, and savings with real-time insights and
+  smart monitoring tips. Optimize your home’s efficiency effortlessly.
 featuredImage:
   type: ImageBlock
-  url: /images/abstract-feature1.svg
-  altText: Thumbnail
+  url: /images/riccardo-annandale-7e2pe9wjL9M-unsplash.jpg
+  altText: >-
+    Track appliance energy usage, costs, and savings with real-time insights and
+    smart monitoring tips. Optimize your home’s efficiency effortlessly.
   elementId: ''
   styles:
     self:
