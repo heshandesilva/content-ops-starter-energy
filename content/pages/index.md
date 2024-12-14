@@ -9,9 +9,12 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+
+      Take control of your energy solutions with our platform. Every decision is
+      backed by data, allowing you to optimize contracts, track performance in
+      real time, and collaborate effortlessly. From negotiations to insights, we
+      simplify the process so you can focus on driving savings and boosting
+      efficiency.
     actions:
       - label: Get started
         altText: ''
