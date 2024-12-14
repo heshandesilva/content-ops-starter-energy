@@ -8,8 +8,8 @@ excerpt: >-
   Donec sed facilisis nibh.
 featuredImage:
   type: ImageBlock
-  url: /images/abstract-feature1.svg
-  altText: Thumbnail
+  url: /images/american-public-power-association-513dBrMJ_5w-unsplash.jpg
+  altText: Affordable Energy Solutions - Cut Costs with Upgrades
   elementId: ''
   styles:
     self:
@@ -55,10 +55,14 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: lorem-ipsum
-  metaDescription: lorem-ipsum
-  addTitleSuffix: false
+  metaTitle: Affordable Energy Solutions - Cut Costs with Upgrades
+  metaDescription: >-
+    Discover cost-saving energy solutions for households and businesses. Learn
+    about upgrades, renewable options, audits, and incentives to reduce costs
+    efficiently.
+  addTitleSuffix: true
   metaTags: []
+  socialImage: /images/american-public-power-association-513dBrMJ_5w-unsplash.jpg
 colors: bg-light-fg-dark
 styles:
   self:
