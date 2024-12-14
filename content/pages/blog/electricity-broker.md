@@ -8,8 +8,10 @@ excerpt: >-
   Donec sed facilisis nibh.
 featuredImage:
   type: ImageBlock
-  url: /images/abstract-feature1.svg
-  altText: Thumbnail
+  url: /images/american-public-power-association-AA5v6sMcalY-unsplash.jpg
+  altText: >-
+    Find expert electricity brokers to compare rates and plans. Save time and
+    money on your energy bills with tailored solutions for your needs.
   elementId: ''
   styles:
     self:
@@ -55,10 +57,13 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: lorem-ipsum
-  metaDescription: lorem-ipsum
-  addTitleSuffix: false
+  metaTitle: Electricity Broker - Choose the Right Electricity Broker
+  metaDescription: >-
+    Find expert electricity brokers to compare rates and plans. Save time and
+    money on your energy bills with tailored solutions for your needs.
+  addTitleSuffix: true
   metaTags: []
+  socialImage: /images/american-public-power-association-AA5v6sMcalY-unsplash.jpg
 colors: bg-light-fg-dark
 styles:
   self:
