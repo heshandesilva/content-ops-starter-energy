@@ -59,7 +59,7 @@ seo:
   metaDescription: >-
     Connect with Australia's best energy brokers to compare plans, reduce costs,
     and find the ideal energy solutions for your home or business.
-  addTitleSuffix: false
+  addTitleSuffix: true
   metaTags: []
 colors: bg-light-fg-dark
 styles:
