@@ -57,7 +57,7 @@ sections:
     backgroundImage:
       type: BackgroundImage
       altText: energy broker
-      backgroundSize: auto
+      backgroundSize: cover
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 26
