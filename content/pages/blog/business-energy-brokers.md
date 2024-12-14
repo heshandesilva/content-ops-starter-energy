@@ -63,6 +63,7 @@ seo:
     energy costs and find tailored solutions for your business needs.
   addTitleSuffix: false
   metaTags: []
+  socialImage: /images/andreas-gucklhorn-Ilpf2eUPpUE-unsplash.jpg
 colors: bg-light-fg-dark
 styles:
   self:
