@@ -9,7 +9,9 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/rose-galloway-green-j4LMklF3C-8-unsplash.jpg
-  altText: Thumbnail
+  altText: >-
+    Discover top energy brokers in Melbourne. Compare plans, save on energy
+    costs, and find customized solutions for your home or business.
   elementId: ''
   styles:
     self:
