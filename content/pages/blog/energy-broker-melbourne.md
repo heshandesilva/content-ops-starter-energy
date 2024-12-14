@@ -8,7 +8,7 @@ excerpt: >-
   and find customized solutions for your home or business.
 featuredImage:
   type: ImageBlock
-  url: /images/abstract-feature1.svg
+  url: /images/rose-galloway-green-j4LMklF3C-8-unsplash.jpg
   altText: Thumbnail
   elementId: ''
   styles:
