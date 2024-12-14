@@ -61,6 +61,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
+      url: /images/federico-beccari-ahi73ZN5P0Y-unsplash.jpg
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
