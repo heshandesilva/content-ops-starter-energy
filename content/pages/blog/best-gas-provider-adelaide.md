@@ -9,7 +9,9 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/noah-kroes-NjKdduZFHL0-unsplash.jpg
-  altText: Thumbnail
+  altText: >-
+    Discover the best gas providers in Adelaide. Compare services, rates, and
+    benefits to choose the ideal gas supplier for your home or business.
   elementId: ''
   styles:
     self:
