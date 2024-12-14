@@ -57,7 +57,7 @@ seo:
   type: Seo
   metaTitle: 'Appliance Cost Monitoring - Track Usage, Save Energy & Cut Costs'
   metaDescription: lorem-ipsum
-  addTitleSuffix: false
+  addTitleSuffix: true
   metaTags: []
 colors: bg-light-fg-dark
 styles:
