@@ -61,6 +61,7 @@ seo:
     smart monitoring tips. Optimize your home’s efficiency effortlessly.
   addTitleSuffix: true
   metaTags: []
+  socialImage: /images/riccardo-annandale-7e2pe9wjL9M-unsplash.jpg
 colors: bg-light-fg-dark
 styles:
   self:
