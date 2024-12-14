@@ -8,7 +8,7 @@ excerpt: >-
   energy costs and find tailored solutions for your business needs.
 featuredImage:
   type: ImageBlock
-  url: /images/abstract-feature1.svg
+  url: /images/andreas-gucklhorn-Ilpf2eUPpUE-unsplash.jpg
   altText: Thumbnail
   elementId: ''
   styles:
