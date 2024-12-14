@@ -9,7 +9,9 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/andreas-gucklhorn-Ilpf2eUPpUE-unsplash.jpg
-  altText: Thumbnail
+  altText: >-
+    Partner with top business energy brokers to secure the best rates. Optimize
+    energy costs and find tailored solutions for your business needs.
   elementId: ''
   styles:
     self:
